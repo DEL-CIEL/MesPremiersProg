@@ -13,7 +13,7 @@
 int main()
 {
 	/*printf("Premier programme\n");
-	print(a
+	print(ab
 	printf("\nSection %s promotion %d\n", "CIEL", 2026);
 	printf("\nLe point de fusion du mercure est de %f\xB0 C soit environ %g\xB0 C\n", -38.842, -38.842);
 	_getch();*/
